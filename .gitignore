@@ -1,2 +1,4 @@
 #忽略 index.txt 文件
 index.txt
+#忽略ceshi目录下的所有文件
+ceshi/
